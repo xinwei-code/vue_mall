@@ -1,0 +1,16 @@
+.van-nav-bar__title{
+    color: #666666;
+}
+.van-submit-bar {
+    margin-bottom: 60px;
+}
+.van-card {
+    padding-bottom: 20px;
+}
+.van-card__title {
+    display: inline-block;
+    width: 100%;
+    text-overflow: ellipsis!important;
+    overflow: hidden!important;
+    white-space:nowrap!important;
+}

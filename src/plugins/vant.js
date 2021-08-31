@@ -1,0 +1,51 @@
+import Vue from "vue";
+import {
+    Button,
+    Tabbar,
+    TabbarItem,
+    NavBar,
+    Lazyload,
+    Swipe,
+    SwipeItem,
+    List,
+    Image,
+    Loading,
+    Sticky,
+    PullRefresh,
+    GoodsAction,
+    GoodsActionIcon,
+    GoodsActionButton,
+    Toast,
+    Cell,
+    CellGroup,
+    Tag,
+    Checkbox,
+    SubmitBar,
+    Card,
+    Sidebar,
+    SidebarItem
+} from 'vant'
+Vue.use(Button)
+Vue.use(Tabbar)
+Vue.use(TabbarItem)
+Vue.use(NavBar)
+Vue.use(Lazyload)
+Vue.use(Swipe)
+Vue.use(SwipeItem)
+Vue.use(List)
+Vue.use(Image)
+Vue.use(Loading)
+Vue.use(Sticky)
+Vue.use(PullRefresh)
+Vue.use(GoodsAction);
+Vue.use(GoodsActionButton);
+Vue.use(GoodsActionIcon);
+Vue.use(Toast);
+Vue.use(Cell);
+Vue.use(CellGroup);
+Vue.use(Tag);
+Vue.use(Checkbox);
+Vue.use(SubmitBar);
+Vue.use(Card);
+Vue.use(Sidebar);
+Vue.use(SidebarItem);
